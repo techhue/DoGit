@@ -6,3 +6,6 @@ int main() {
 	printf("Welcome Jawanooo!!!");
 }
 
+void doSoemthing() {
+	
+}
